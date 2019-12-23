@@ -1,1 +1,0 @@
-# wwgym_frontend
